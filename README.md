@@ -70,13 +70,13 @@ The **Booking System** cases enables users to:
 
     END HotelBookingProcess
 
-- **Sequence diagram**
+- **ERD diagram**
   ![book-hotel-erd](book-hotel-erd.png)
 
 
 
 ### 2. **Retrieve Booking history**
-- **Flowchart diagram
+- **Flowchart diagram**
   ![Retrieve-Booking-history-flowchart](Retrieve-Booking-history-flowchart.png)
 
 - **Sequence diagram**
@@ -126,8 +126,5 @@ BEGIN RetrieveBookingHistory
 
     END RetrieveBookingHistory
 
-
-- **Sequence diagram**
-  ![book-hotel-erd](book-hotel-erd.png)
 
 
