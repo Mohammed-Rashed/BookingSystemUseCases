@@ -84,7 +84,7 @@ The **Booking System** cases enables users to:
 
 - pseudocode
 ### Pseudocode
-BEGIN RetrieveBookingHistory
+    BEGIN RetrieveBookingHistory
 
     // User Login or Registration
     IF User is not logged in THEN
